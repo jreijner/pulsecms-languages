@@ -1,71 +1,71 @@
 <?php
 
 //Global
-$lang_cancel = "Cancel";
-$lang_duplicate = "Duplicate";
+$lang_cancel = "Annuleren";
+$lang_duplicate = "Dupliceren";
 $lang_help = "Help";
 $lang_help_url ="http://help.pulsecms.com/";
-$lang_settings = "Settings";
+$lang_settings = "Instellingen";
 $lang_account = "Account";
-$lang_save = "Save";
-$lang_rename_btn = "Rename";
+$lang_save = "Opslaan";
+$lang_rename_btn = "Hernoemen";
 $lang_title = "Pulse CMS";
 
 // Auto backup
 $lang_autobackup_email_subject_line = 'Pulse auto-backup reminder';
 $lang_autobackup_email_text =<<<EOD
-Hi,
+Hallo,
 
-Your Pulse install has generated a backup zip file.
+Je Pulse installie een backup zip file gegenereerd.
 
-Regards,
-The Pulse CMS Team
+Met vriendelijke groet,
+Het Pulse CMS Team
 EOD;
 
 // Login
-$lang_login_forgot_password = "Forgot your password ?";
+$lang_login_forgot_password = "Wachtwoord vergeten ?";
 $lang_login_forgot_password_email_body =<<<EOD
-	Hi,
+	Hallo,
 	
-	Your Pulse password is PASSWORD
+	Je Pulse wachtwoord is PASSWORD
 EOD;
-$lang_login_forgot_password_email_subject_line = "Forgot your Pulse password?"; 
-$lang_login_incorrect = "Your Password is Incorrect!";
-$lang_login_password = "Password";
+$lang_login_forgot_password_email_subject_line = "Je Pulse wachtwoord vergeten?"; 
+$lang_login_incorrect = "Je wachtwoord is niet juist!";
+$lang_login_password = "Wachtwoord";
 $lang_login_button = "Login";
-$lang_nav_logout = "Logout";
-$lang_login_otp = "OTP Password";
-$lang_login_welcome = "Hi!";
-$lang_login_name = "Pulse User";
+$lang_nav_logout = "Log uit";
+$lang_login_otp = "OTP Wachtwoord";
+$lang_login_welcome = "Hallo!";
+$lang_login_name = "Pulse Gebruiker";
 
 // Home
-$lang_home_emptyfold = "This folder is empty."; 
-$lang_home_new = "New";
+$lang_home_emptyfold = "Deze folder is leeg."; 
+$lang_home_new = "Nieuw";
 $lang_home_upload_button = "Upload";
-$lang_home_preview = "Preview";
+$lang_home_preview = "Voorvertoning";
 
 // Navigation
-$lang_nav_title = "Navigation";
+$lang_nav_title = "Navigatie";
 $lang_nav_home = "Home";
 $lang_nav_blocks = "Blocks";
 $lang_nav_img = "Media";
 $lang_nav_blog = "Blog";
-$lang_nav_pages = "Pages";
-$lang_nav_stats = "Stats";
+$lang_nav_pages = "Pagina's";
+$lang_nav_stats = "Statistieken";
 
 // Navigation logged in bar
-$lang_nav_logged_in_add_block     = 'Add new block';
-$lang_nav_logged_in_add_blog_post = 'Add new blog post';
-$lang_nav_logged_in_add_media     = 'Add new media';
-$lang_nav_logged_in_add_page      = 'Add new page';
+$lang_nav_logged_in_add_block     = 'Voeg een nieuwe block toe';
+$lang_nav_logged_in_add_blog_post = 'Voeg een nieuwe blog post toe';
+$lang_nav_logged_in_add_media     = 'Voeg nieuwe media toe';
+$lang_nav_logged_in_add_page      = 'Voeg een nieuwe pagina toe';
 
 
 // Gallery
 $lang_gal_alt_gallery = "alt tag";
-$lang_gal_caption_gallery = "Insert caption here";
-$lang_gal_filename = "Filename";
-$lang_gal_dimensions = "Dimensions";
-$lang_gal_size = "Size";
+$lang_gal_caption_gallery = "Voeg onderschrift hier in";
+$lang_gal_filename = "Bestandsnaam";
+$lang_gal_dimensions = "Dimenties";
+$lang_gal_size = "Grootte";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
 $lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
